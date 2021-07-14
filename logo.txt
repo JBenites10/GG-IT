@@ -1,0 +1,21 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/															/
+/															/
+/										T R A B A J O   F I N A L		/
+/    ________  ________          .______________									/
+/   /  _____/ /  _____/          |   \__    ___/              Press:                                 14.stash           /
+/  /   \  ___/   \  ___   ______ |   | |    |                   1. config                            15.stash list      /
+/  \    \_\  \    \_\  \ /_____/ |   | |    |                   2. init                              16.stash pop       /
+/   \______  /\______  /         |___| |____|                   3. clone                             17.stash drop      /
+/          \/        \/     					4. status			     18.Busqueda	/
+/								5. add [archivo]                     19.Pop		/
+/								6. reset [archivo]	             20.Checkout	/
+/								7. commit -m [mensaje]		                	/
+/	Integrantes:						8. diff							/
+/	Juan Alejandro Benites					9. log							/
+/	Diego Talledo						10. hash					 	/
+/	Juan Diego Tenorio					11. show [SHA]						/
+/								12. rm [archivo]					/
+/								13. mv [ruta-existente][nueva-ruta]			/
+/															/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
